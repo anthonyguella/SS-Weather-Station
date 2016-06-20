@@ -1,6 +1,7 @@
 # SS-Weather-Station
   This is a self sustainable weather station using an Arduino Pro Mini and an Esp 8266.
   
+  
   Parts List:
   
   Arduino Pro Mini 328 - 3.3V/8Mhz
@@ -16,3 +17,5 @@
   Water Sensor
   
   2000 mAh Li-ion battery
+  
+  Solar Panel
